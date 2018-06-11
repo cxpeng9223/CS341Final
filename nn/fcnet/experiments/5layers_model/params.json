@@ -1,0 +1,9 @@
+{
+    "learning_rate": 5e-5,
+    "batch_size": 256,
+    "num_epochs": 10000,
+    "dropout_rate":0.5, 
+    "hidden_units": 1000,
+    "save_summary_steps": 100,
+    "num_workers": 5
+}
