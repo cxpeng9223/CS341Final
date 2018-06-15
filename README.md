@@ -2,7 +2,7 @@ This readme is still in progress
 
 # Now-Casting Employment
 
-This is the code for our cs231n project.
+This is the code for our cs341 project.
 
 **Now-Casting Employment**,
 <br>
